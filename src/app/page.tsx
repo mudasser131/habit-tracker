@@ -12,7 +12,6 @@ import {
   Award, 
   TrendingUp,
   Flame,
-  ChevronRight,
   Sparkles,
   Target,
   BarChart3,
