@@ -269,7 +269,7 @@ const HabitTracker: React.FC = () => {
                   setActiveTab('track');
                   setShowReminder(false);
                 }}
-                className="w-full bg-gradient-to-r from-blue-500 to-indigo-600 text-white px-6 py-3 rounded-lg font-semibold shadow-md hover:from-blue-600 hover:to-indigo-700 transition-all flex items-center justify-center"
+                className="w-full bg-gradient-to-r from-blue-500 to-indigo-600 text-white px-6  py-3 rounded-lg font-semibold shadow-md hover:from-blue-600 hover:to-indigo-700 transition-all flex items-center justify-center"
               >
                 <Check size={20} className="mr-2" />
                 Log Now
